@@ -54,7 +54,7 @@ Ensure the following dependencies are installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/omnxteam/elsera.git
+   git clone https://github.com/elserateam/elsera.git
    ```
 
 2. Navigate to the project directory:
